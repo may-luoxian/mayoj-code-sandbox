@@ -9,5 +9,4 @@ public class MayojCodeSandboxApplication {
     public static void main(String[] args) {
         SpringApplication.run(MayojCodeSandboxApplication.class, args);
     }
-
 }

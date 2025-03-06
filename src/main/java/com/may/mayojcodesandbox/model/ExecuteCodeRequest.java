@@ -1,4 +1,4 @@
-package com.myblog.judge.codesandbox.model;
+package com.may.mayojcodesandbox.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
@@ -17,4 +17,6 @@ public class ExecuteCodeRequest {
     private String code;
 
     private String language;
+
+    private String mainCode;
 }

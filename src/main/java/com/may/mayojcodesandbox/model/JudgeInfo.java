@@ -1,4 +1,4 @@
-package com.myblog.judge.codesandbox.model;
+package com.may.mayojcodesandbox.model;
 
 import lombok.Data;
 
